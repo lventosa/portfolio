@@ -13,6 +13,6 @@ Language: **Python**. Project notebook available [here](./us-breweries/us-brewer
 
 ### **Who painted what? Artist Prediction Using Deep Learning** <a name="artists"></a>
 
-This project consists of two separated parts. It first analyzes data from the 50 most influencial artists of all time using basic data exploration and visualization techniques. Secondly, a deep learning model is constructed to identify the author of a given painting.
+This project consists of two separated parts. It first analyzes data from the 50 most influencial artists of all time using basic data exploration and visualization techniques. Secondly, a deep learning model is constructed to identify the author of a given painting. --> 2nd part: still in the making
 
 Launguage: **Python**. Project notebook available [here](./art-history/artist-predictor.ipynb).
