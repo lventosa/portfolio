@@ -4,6 +4,7 @@ Compilation of personal data science projects done in my free time for self-lear
 ## Table of Contents
 1. [US Breweries Analysis](#breweries)
 2. [Who painted what? Artist Prediction Using Deep Learning](#artists)
+3. [Mathematicians of Wikipedia](#mathematicians)
 
 ### **US Breweries Analysis** <a name="breweries"></a>
 
@@ -13,6 +14,11 @@ Language: **Python**. Project notebook available [here](./us-breweries/us-brewer
 
 ### **Who painted what? Artist Prediction Using Deep Learning** <a name="artists"></a>
 
-This project consists of two separated parts. It first analyzes data from the 50 most influencial artists of all time using basic data exploration and visualization techniques. Secondly, a deep learning model is constructed to identify the author of a given painting. --> 2nd part: still in the making
+This project consists of two separated parts. It first analyzes data from the 50 most influencial artists of all time using basic data exploration and visualization techniques. Secondly, a deep learning model is constructed to identify the author of a given painting. --> WORK IN PROGRESS
+Language: **Python**. Project notebook available [here](./art-history/artist-predictor.ipynb).
 
-Launguage: **Python**. Project notebook available [here](./art-history/artist-predictor.ipynb).
+### **Mathematicians of Wikipedia** <a name="mathematicians"></a>
+
+EXPLICAR
+
+Language: **R**. Project notebook available [here]().
