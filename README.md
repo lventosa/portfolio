@@ -1,5 +1,5 @@
 # Personal Portfolio
-Compilation of personal data science projects done in my free time for self-learning/entertainment purposes. This is a work in progress. 
+Compilation of small personal data science projects done in my free time for self-learning/entertainment purposes. This is a work in progress. 
 
 ## Table of Contents
 1. [US Breweries Analysis](#breweries)
@@ -26,6 +26,6 @@ Project notebook available [here](./art-history/artist-predictor.ipynb).
 
 EXPLICAR
 
-Language: **R**. Status: Early stages 🐣
+Language: **R/Julia**. Status: Early stage 🐣
 
 Project notebook available [here]().
