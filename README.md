@@ -16,7 +16,7 @@ Project notebook available [here](./us-breweries/us-breweries.ipynb).
 
 ### **Who painted what? Artist Prediction Model** <a name="artists"></a>
 
-This project consists of two separated parts. It first analyzes data from the 50 most influencial artists of all time using basic data exploration and visualization techniques as well as statistical modelling. Secondly, a deep learning model is constructed to identify the author of a given painting.
+This project consists of two separated parts. It first analyzes data from the 50 most influencial artists of all time using basic data exploration and visualization techniques as well as statistical modelling. Secondly, a predictive model is constructed to identify the author of a given painting.
 
 Language: **Python**. Status: Work in progress 🛠️
 
