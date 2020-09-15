@@ -24,8 +24,8 @@ Project notebook available [here](./art-history/artist-predictor.ipynb).
 
 ### **Mathematicians of Wikipedia** <a name="mathematicians"></a>
 
-EXPLICAR
+TBD
 
-Language: **R/Julia**. Status: Early stage 🐣
+Language: **Julia**. Status: Early stage 🐣
 
-Project notebook available [here]().
+Project notebook available [here](./wikipedia-mathematicians/mathematicians-of-wikipedia.ipynb).
